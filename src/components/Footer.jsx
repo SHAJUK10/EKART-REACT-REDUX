@@ -31,7 +31,7 @@ function Footer() {
 
 
           <div className='contactus ms-5'>
-            <h4 style={{color:"#ff6f61"}}>Contact Us</h4>
+            <h4 style={{color:""}}>Contact Us</h4>
             <div className='d-flex'>
               <input type="text" className='form-control' placeholder='Enter Your Email' />
               <button className='btn  ms-3' style={{backgroundColor:"#088F8F"}}>Subscribe</button>
